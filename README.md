@@ -2,11 +2,11 @@
 
 * This Calculator is used to find the Body Mass Index of a person.
 
-* It is built using Streamlit and it is connected to a database (MySQL)
+* It's built using [Streamlit](https://streamlit.io/) and connected through the database ([MySQL](https://www.mysql.com/))
 
 # REQUIREMENTS:
 
-* pip install streamlit
+* pip install [streamlit](https://pypi.org/project/streamlit/)
 
-* pip install mysql
+* pip install [mysql](https://pypi.org/project/mysql-connector-python/)
 
